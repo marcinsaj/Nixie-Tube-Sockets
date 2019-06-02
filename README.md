@@ -22,7 +22,7 @@
         <th width="10px" height="62px" scope="col"> </th>
         <th width="125px" height="62px" scope="col"> Thumbnail</th>
         <th width="125px" height="62px" scope="col"> Number</th>
-        <th width="425px" height="62px" scope="col"> List</th>
+        <th width="100%" height="62px" scope="col"> List</th>
         <th width="10px" height="62px" scope="col"> </th>
     </tr>
     <tr align="center" valign="middle" style="background-color:#d4effd;">
