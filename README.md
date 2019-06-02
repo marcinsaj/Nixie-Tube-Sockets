@@ -176,7 +176,9 @@
         <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-16.jpg" /></td>
         <td>
             <h3>NO.16</h3></td>
-        <td><strong>NIXIE TUBE DRIVER SOCKET&nbsp;- DEDICATED ONLY FOR NIXIE TUBE TESTER.&nbsp;</strong><strong>IN12 - TUBE INDICATOR.<br />TUBE DRIVERS:</strong> <a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/74141-NDT/74141-NDT.htm">74141, DM74141, DM74141N,&nbsp;NTE74141, SN74141, SN74141J, SN74141N, TL74141N, 155ID1, K155ID1, KM155ID1, 7441, 7441A, DM7441A, DM5441A, DM54141, DM8640N, FJL101, FLL101</a></td>
+        <td><strong>NIXIE TUBE DRIVER SOCKET<br />
+        DEDICATED ONLY FOR NIXIE TUBE TESTER.&nbsp;</strong><strong>IN12 - TUBE INDICATOR.<br />
+      TUBE DRIVERS:</strong> <a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/74141-NDT/74141-NDT.htm">74141, DM74141, DM74141N,&nbsp;NTE74141, SN74141, SN74141J, SN74141N, TL74141N, 155ID1, K155ID1, KM155ID1, 7441, 7441A, DM7441A, DM5441A, DM54141, DM8640N, FJL101, FLL101</a></td>
         <td> </td>
     </tr>
     <tr style="background-color:#ffffff;" height="5px"></tr>
@@ -185,8 +187,10 @@
         <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-17.jpg" /></td>
         <td>
             <h3>NO.17</h3></td>
-        <td><a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/data/z567m.htm">Z567M</a>, <a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/data/z5670m/z5670m.htm">Z5670M</a>,&nbsp;<a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/ZM1041MULLARD/">ZM1041</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/ZM1043PHILIPS/">ZM1043</a>
-            <br /><strong>COMPATIBLE WITH ALL DEVICES,&nbsp;<a target="_blank" rel="noopener" href="https://igg.me/at/nixiedevice">DEDICATED FOR USELESS NIXIE DEVICE</a></strong></td>
+      <td><a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/data/z567m.htm">Z567M</a>, <a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/data/z5670m/z5670m.htm">Z5670M</a>,&nbsp;<a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/ZM1041MULLARD/">ZM1041</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/ZM1043PHILIPS/">ZM1043</a>
+            <br />
+            <strong>COMPATIBLE WITH ALL DEVICES.&nbsp;<br />
+            <a target="_blank" rel="noopener" href="https://igg.me/at/nixiedevice">DEDICATED FOR USELESS NIXIE DEVICE</a></strong></td>
         <td> </td>
     </tr>
     <tr style="background-color:#ffffff;" height="5px"></tr>
