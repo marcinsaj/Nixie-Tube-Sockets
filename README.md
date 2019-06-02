@@ -19,11 +19,11 @@
 </table>
 <table width="100%">
     <tr height="0px">
-        <th width="10px" height="62px" scope="col"> </th>
-        <th width="125px" height="62px" scope="col"> Thumbnail</th>
-        <th width="125px" height="62px" scope="col"> Number</th>
-        <th width="600px" height="62px" scope="col"> List</th>
-        <th width="10px" height="62px" scope="col"> </th>
+        <th width="10px" scope="col"> </th>
+        <th width="125px" scope="col"> Thumbnail</th>
+        <th width="125px" scope="col"> Number</th>
+        <th width="600px" scope="col"> List</th>
+        <th width="10px"  scope="col"> </th>
     </tr>
     <tr align="center" valign="middle" style="background-color:#d4effd;">
         <td> </td>
