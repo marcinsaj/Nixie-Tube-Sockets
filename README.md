@@ -27,7 +27,7 @@
     </tr>
     <tr align="center" valign="middle" style="background-color:#d4effd;">
         <td> </td>
-        <td><img src="https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_695/v1559400575/xmfjmbleqdfsncbsccao.jpg" /></td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-01.jpg" /></td>
         <td>
             <h3>NO.1</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/IN12AV/">IN12A</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/IN12B/">IN12B</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/IN15A/">IN15A</a>,&nbsp;<a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/IN15B/">IN15B</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/ZM1162/">ZM1162</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/ZM1180SIEMENS/">ZM1180</a>,
@@ -39,7 +39,7 @@
     <tr style="background-color:#ffffff;" height="5px"></tr>
     <tr align="center" valign="middle" style="background-color:#d4effd;">
         <td> </td>
-        <td><img src="https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_695/v1559400583/ukasbiauxslbln9y2rxu.jpg" /></td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-02.jpg" /></td>
         <td>
             <h3>NO.2</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/LC631/">LC631</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/Z566M/">Z566M</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/ZM5660MRFT/">Z5660M</a>, <a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/data/z567m.htm">Z567M</a>,&nbsp;
@@ -50,7 +50,7 @@
     <tr style="background-color:#ffffff;" height="5px"></tr>
     <tr align="center" valign="middle" style="background-color:#d4effd;">
         <td> </td>
-        <td><img src="https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_695/v1559400590/mrfnk1koktv6kk2okczx.jpg" /></td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-03.jpg" /></td>
         <td>
             <h3>NO.3</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/ZM560MRFT/">Z560M</a>,&nbsp;<a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/Z5600MRFT/">Z5600M</a>,&nbsp;<a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/Z510M/">Z510M</a>,&nbsp;<a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/Z561M/">Z561M</a>,&nbsp;<a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/Z562M2/">Z562M2</a>,&nbsp;<a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/Z562M3/">Z562M3</a>,&nbsp;
@@ -60,7 +60,7 @@
     <tr style="background-color:#ffffff;" height="5px"></tr>
     <tr align="center" valign="middle" style="background-color:#d4effd;">
         <td> </td>
-        <td><img src="https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_695/v1559400598/qoi0vpjmjaxao5w5cweh.jpg" /></td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-04.jpg" /></td>
         <td>
             <h3>NO.4</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/IN18/">IN18</a></td>
@@ -69,7 +69,7 @@
     <tr style="background-color:#ffffff;" height="5px"></tr>
     <tr align="center" valign="middle" style="background-color:#d4effd;">
         <td> </td>
-        <td><img src="https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_695/v1559400608/xrvo0dvhdlhnzcez4f0q.jpg" /></td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-05.jpg" /></td>
         <td>
             <h3>NO.5</h3></td>
         <td><a target="_blank" rel="noopener" href="https://www.daliborfarny.com/product/rz568m-nixie-tube/">RZ568M - Dalibor Farny</a>,
@@ -80,7 +80,7 @@
     <tr style="background-color:#ffffff;" height="5px"></tr>
     <tr align="center" valign="middle" style="background-color:#d4effd;">
         <td> </td>
-        <td><img src="https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_695/v1559400615/ztuhzhjnmaxcpmebtnke.jpg" /></td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-06.jpg" /></td>
         <td>
             <h3>NO.6</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/IN8/">IN8</a></td>
@@ -89,7 +89,7 @@
     <tr style="background-color:#ffffff;" height="5px"></tr>
     <tr align="center" valign="middle" style="background-color:#d4effd;">
         <td> </td>
-        <td><img src="https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_695/v1559400623/wnwg2czhv33vkkc0w5hi.jpg" /></td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-07.jpg" /></td>
         <td>
             <h3>NO.7</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/IN2/">IN2</a></td>
@@ -98,7 +98,7 @@
     <tr style="background-color:#ffffff;" height="5px"></tr>
     <tr align="center" valign="middle" style="background-color:#d4effd;">
         <td> </td>
-        <td><img src="https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_695/v1559400632/le6cctiklhytvvcfe0by.jpg" /></td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-08.jpg" /></td>
         <td>
             <h3>NO.8</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/IN4/">IN4</a></td>
@@ -107,7 +107,7 @@
     <tr style="background-color:#ffffff;" height="5px"></tr>
     <tr align="center" valign="middle" style="background-color:#d4effd;">
         <td> </td>
-        <td><img src="https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_695/v1559400641/hzdhhvzybbjpwjflazbj.jpg" /></td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-09.jpg" /></td>
         <td>
             <h3>NO.9</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/IN14/">IN14</a></td>
@@ -116,7 +116,7 @@
     <tr style="background-color:#ffffff;" height="5px"></tr>
     <tr align="center" valign="middle" style="background-color:#d4effd;">
         <td> </td>
-        <td><img src="https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_695/v1559400651/e4rvpaydcpvtpb7do81e.jpg" /></td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-10.jpg" /></td>
         <td>
             <h3>NO.10</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/IN16/">IN16</a></td>
@@ -125,7 +125,7 @@
     <tr style="background-color:#ffffff;" height="5px"></tr>
     <tr align="center" valign="middle" style="background-color:#d4effd;">
         <td> </td>
-        <td><img src="https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_695/v1559400658/awr20esofeuzdkcv8tbh.jpg" /></td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-11.jpg" /></td>
         <td>
             <h3>NO.11</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/data/z570m/z570m.htm">Z570M</a>, <a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/data/b570m/B570m.htm">B570M</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/573M/">Z573M</a>, <a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/data/z574m/z574m.htm">Z574M</a>, <a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/data/z5730m/z5730m.htm">Z5730M</a>,
@@ -137,7 +137,7 @@
     <tr style="background-color:#ffffff;" height="5px"></tr>
     <tr align="center" valign="middle" style="background-color:#d4effd;">
         <td> </td>
-        <td><img src="https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_695/v1559400667/m6pf1rcspins2jslohu0.jpg" /></td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-12.jpg" /></td>
         <td>
             <h3>NO.12</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/IN17/">IN17</a></td>
@@ -146,7 +146,7 @@
     <tr style="background-color:#ffffff;" height="5px"></tr>
     <tr align="center" valign="middle" style="background-color:#d4effd;">
         <td> </td>
-        <td><img src="https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_695/v1559400681/dv6g5ns55l0lgmxcy4fj.jpg" /></td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-13.jpg" /></td>
         <td>
             <h3>NO.13</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/IN1/">IN1</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/LC516/">LC516</a></td>
@@ -155,7 +155,7 @@
     <tr style="background-color:#ffffff;" height="5px"></tr>
     <tr align="center" valign="middle" style="background-color:#d4effd;">
         <td> </td>
-        <td><img src="https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_695/v1559400688/x8gietdhntf12dvioi4m.jpg" /></td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-14.jpg" /></td>
         <td>
             <h3>NO.14</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/IN19A/">IN19A</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/IN19B/">IN19B</a>, <a target="_blank" rel="noopener" href="http://www.jb-electronics.de/html/elektronik/nixies/n_in19v.htm?lang=de">IN19V</a></td>
@@ -164,7 +164,7 @@
     <tr style="background-color:#ffffff;" height="5px"></tr>
     <tr align="center" valign="middle" style="background-color:#d4effd;">
         <td> </td>
-        <td><img src="https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_695/v1559400700/jeetmztoq2t18qkcnqgu.jpg" /></td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-15.jpg" /></td>
         <td>
             <h3>NO.15</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/IN7/">IN7</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/IN7A/">IN7A</a></td>
@@ -173,7 +173,7 @@
     <tr style="background-color:#ffffff;" height="5px"></tr>
     <tr align="center" valign="middle" style="background-color:#d4effd;">
         <td> </td>
-        <td><img src="https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_695/v1559400710/hvhovonz8w2eogoygty7.jpg" /></td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-16.jpg" /></td>
         <td>
             <h3>NO.16</h3></td>
         <td><strong>NIXIE TUBE DRIVER SOCKET&nbsp;- DEDICATED ONLY FOR NIXIE TUBE TESTER.&nbsp;</strong><strong>IN12 - TUBE INDICATOR.<br />TUBE DRIVERS:</strong> <a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/74141-NDT/74141-NDT.htm">74141, DM74141, DM74141N,&nbsp;NTE74141, SN74141, SN74141J, SN74141N, TL74141N, 155ID1, K155ID1, KM155ID1, 7441, 7441A, DM7441A, DM5441A, DM54141, DM8640N, FJL101, FLL101</a></td>
@@ -182,7 +182,7 @@
     <tr style="background-color:#ffffff;" height="5px"></tr>
     <tr align="center" valign="middle" style="background-color:#d4effd;">
         <td> </td>
-        <td><img src="https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_695/v1559400720/lopc0avj04m96b5zubyo.jpg" /></td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-17.jpg" /></td>
         <td>
             <h3>NO.17</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/data/z567m.htm">Z567M</a>, <a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/data/z5670m/z5670m.htm">Z5670M</a>,&nbsp;<a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/ZM1041MULLARD/">ZM1041</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/ZM1043PHILIPS/">ZM1043</a>
@@ -192,7 +192,7 @@
     <tr style="background-color:#ffffff;" height="5px"></tr>
     <tr align="center" valign="middle" style="background-color:#d4effd;">
         <td> </td>
-        <td><img src="https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_695/v1559400730/kqxjagjpipqw21auacui.jpg" /></td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-18.jpg" /></td>
         <td>
             <h3>NO.18</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/data/I/IN-8-2/in-8-2.htm">IN8-2</a></td>
@@ -201,7 +201,7 @@
     <tr style="background-color:#ffffff;" height="5px"></tr>
     <tr align="center" valign="middle" style="background-color:#d4effd;">
         <td> </td>
-        <td><img src="https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_695/v1559400741/mgh8ibtccgptdpg2gt1g.jpg" /></td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-19.jpg" /></td>
         <td>
             <h3>NO.19</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/ZM1000VALVO/">ZM1000</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/ZM1001VALVO/">ZM1001</a>, <a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/dat_arch/ZM1005_ZM1005R.pdf">ZM1005</a>, <a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/dat_arch/ZM1005_ZM1005R.pdf">ZM1005R</a>, <a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/data/ZM1006/ZM1006.htm">ZM1006</a>,&nbsp;
@@ -212,7 +212,7 @@
     <tr style="background-color:#ffffff;" height="5px"></tr>
     <tr align="center" valign="middle" style="background-color:#d4effd;">
         <td> </td>
-        <td><img src="https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_695/v1559400749/en7iftvwyq8lgzpdcafj.jpg" /></td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-20A.jpg" /></td>
         <td>
             <h3>NO.20A</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/B7971BURROUGHS/">B7971</a>, NL7971, 283CQAD7971
@@ -222,7 +222,7 @@
     <tr style="background-color:#ffffff;" height="5px"></tr>
     <tr align="center" valign="middle" style="background-color:#d4effd;">
         <td> </td>
-        <td><img src="https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_695/v1559400757/ccopm1zmwckmehhiotlf.jpg" /></td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-20B.jpg" /></td>
         <td>
             <h3>NO.20B</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/B7971BURROUGHS/">B7971, NL7971, 283CQAD7971</a>
@@ -232,7 +232,7 @@
     <tr style="background-color:#ffffff;" height="5px"></tr>
     <tr align="center" valign="middle" style="background-color:#d4effd;">
         <td> </td>
-        <td><img src="https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_695/v1559400766/asidho0akdb0lfkcjkgx.jpg" /></td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-21.jpg" /></td>
         <td>
             <h3>NO.21</h3></td>
         <td><a target="_blank" rel="noopener" href="https://millclock.com/catalog/49-76-zin-18-nixie-tube#/32-base-silver_base">ZIN18 - Millclock</a>&nbsp;</td>
@@ -241,7 +241,7 @@
     <tr style="background-color:#ffffff;" height="5px"></tr>
     <tr align="center" valign="middle" style="background-color:#d4effd;">
         <td> </td>
-        <td><img src="https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_695/v1559400775/rwv6hmkuec3ap13klw72.jpg" /></td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-22.jpg" /></td>
         <td>
             <h3>NO.22</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/dat_arch/Burroughs_Bulletin_1104D.pdf">B5440</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/B5440A/">B5440A</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/NL5441A/">B5441</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/NL5441A/">B5441A</a>,&nbsp;
@@ -252,7 +252,7 @@
     <tr style="background-color:#ffffff;" height="5px"></tr>
     <tr align="center" valign="middle" style="background-color:#d4effd;">
         <td> </td>
-        <td><img src="https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_695/v1559400785/ztqrw9ggdshl5obqtnff.jpg" /></td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-23A.jpg" /></td>
         <td>
             <h3>NO.23A</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.jb-electronics.de/html/elektronik/nixies/n_b5971.htm?lang=en">B5971</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/NL5971/">NL5971</a>
@@ -262,7 +262,7 @@
     <tr style="background-color:#ffffff;" height="5px"></tr>
     <tr align="center" valign="middle" style="background-color:#d4effd;">
         <td> </td>
-        <td><img src="https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_695/v1559400798/ukhs7sqo7atc0mlvaobm.jpg" /></td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-23B.jpg" /></td>
         <td>
             <h3>NO.23B</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.jb-electronics.de/html/elektronik/nixies/n_b5971.htm?lang=en">B5971</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/NL5971/">NL5971</a>
@@ -272,7 +272,7 @@
     <tr style="background-color:#ffffff;" height="5px"></tr>
     <tr align="center" valign="middle" style="background-color:#d4effd;">
         <td> </td>
-        <td><img src="https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_695/v1559400808/jnzh7qjtgs878qiarwpn.jpg" /></td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-24A.jpg" /></td>
         <td>
             <h3>NO.24A</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.jb-electronics.de/html/elektronik/nixies/n_b8971.htm?lang=en">B8971</a>, <a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/data/b-8971/b-8971.htm">NL8971</a>
@@ -282,7 +282,7 @@
     <tr style="background-color:#ffffff;" height="5px"></tr>
     <tr align="center" valign="middle" style="background-color:#d4effd;">
         <td> </td>
-        <td><img src="https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_695/v1559400819/nym7zgbgyzfqdl6ehbe2.jpg" /></td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-24B.jpg" /></td>
         <td>
             <h3>NO.24B</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.jb-electronics.de/html/elektronik/nixies/n_b8971.htm?lang=en">B8971</a>, <a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/data/b-8971/b-8971.htm">NL8971</a>
@@ -292,7 +292,7 @@
     <tr style="background-color:#ffffff;" height="5px"></tr>
     <tr align="center" valign="middle" style="background-color:#d4effd;">
         <td> </td>
-        <td><img src="https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_695/v1559400830/tobl4e4hnwno06go6uaw.jpg" /></td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-25.jpg" /></td>
         <td>
             <h3>NO.25</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/data/nl-803/nl-803.htm">NL803</a>,&nbsp;<a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/NL811/">NL811</a>, <a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/data/nl-803/nl-803.htm">NL812</a>, <a target="_blank" rel="noopener" href="http://www.jb-electronics.de/html/elektronik/nixies/n_nl840.htm?lang=de">NL840</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/NL840VR/">NL840VR</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/NL841RCA/">NL841</a>,
