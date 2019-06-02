@@ -11,9 +11,9 @@
 
 <table width="100%" border="0" align="center" valign="middle">
     <tr style="background-color:#666;">
-        <th width="308px" height="125px" align="center" valign="middle" scope="col">
+        <th width="42%" height="125px" align="center" valign="middle" scope="col">
             <h1 style="text-align: center;"><font color="white">TUBE SOCKET</font></h2></th>
-        <th height="125px" width="573px" align="center" valign="middle" scope="col">
+        <th height="125px" width="58%" align="center" valign="middle" scope="col">
             <h1 style="text-align: center;"><font color="white">SUPPORTED TUBES</font></h2></th>
     </tr>
 </table>
