@@ -210,7 +210,7 @@
         <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-20A.jpg" /></td>
         <td>
             <h3>NO.20A</h3></td>
-        <td><a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/B7971BURROUGHS/">B7971</a>, NL7971, 283CQAD7971
+        <td><a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/B7971BURROUGHS/">B7971, NL7971, 283CQAD7971</a>
             <br /><strong>WITH CATHODE RESISTORS<br /><a target="_blank" rel="noopener" href="https://igg.me/at/nixie-lab">DEDICATED ONLY FOR NIXIE LAB</a><br />NOT AVAILABLE - WORK IN PROGRESS</strong></td>
         <td> </td>
     </tr>
