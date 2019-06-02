@@ -168,7 +168,7 @@
         <td>
             <h3>NO.16</h3></td>
         <td><strong>NIXIE TUBE DRIVER SOCKET<br />
-        DEDICATED ONLY FOR NIXIE TUBE TESTER.&nbsp;</strong><strong>IN12 - TUBE INDICATOR.<br />
+        DEDICATED ONLY FOR NIXIE TUBE TESTER.&nbsp;</strong><strong><br />IN12 - TUBE INDICATOR.
       TUBE DRIVERS:</strong> <a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/74141-NDT/74141-NDT.htm">74141, DM74141, DM74141N,&nbsp;NTE74141, SN74141, SN74141J, SN74141N, TL74141N, 155ID1, K155ID1, KM155ID1, 7441, 7441A, DM7441A, DM5441A, DM54141, DM8640N, FJL101, FLL101</a></td>
         <td> </td>
     </tr>
