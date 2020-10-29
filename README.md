@@ -211,7 +211,7 @@
         <td>
             <h3>NO.20A</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/B7971BURROUGHS/">B7971, NL7971, 283CQAD7971</a>
-            <br /><strong>WITH CATHODE RESISTORS<br /><a target="_blank" rel="noopener" href="https://igg.me/at/nixie-lab">DEDICATED ONLY FOR NIXIE LAB</a><br />NOT AVAILABLE - WORK IN PROGRESS</strong></td>
+            <br /><strong>WITH CATHODE RESISTORS<br /></strong></td>
         <td> </td>
     </tr>
     <tr style="background-color:#ffffff;" height="5px"></tr>
@@ -221,7 +221,7 @@
         <td>
             <h3>NO.20B</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/B7971BURROUGHS/">B7971, NL7971, 283CQAD7971</a>
-            <br /><strong>WITHOUT CATHODE RESISTORS<br /><a target="_blank" rel="noopener" href="https://igg.me/at/pro-nixietester"><font color="green">DEDICATED ONLY FOR PRO NIXIE TESTER</font></a></strong></td>
+            <br /><strong>WITHOUT CATHODE RESISTORS<br /><a target="_blank" rel="noopener" href="https://nixietester.com/project/pro-nixie-tester/"><font color="green">DEDICATED ONLY FOR PRO NIXIE TESTER</font></a></strong></td>
         <td> </td>
     </tr>
     <tr style="background-color:#ffffff;" height="5px"></tr>
@@ -251,7 +251,7 @@
         <td>
             <h3>NO.23A</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.jb-electronics.de/html/elektronik/nixies/n_b5971.htm?lang=en">B5971</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/NL5971/">NL5971</a>
-            <br /><strong>WITH CATHODE RESISTORS<br /><a target="_blank" rel="noopener" href="https://igg.me/at/nixie-lab">DEDICATED ONLY FOR NIXIE LAB</a><br />NOT AVAILABLE - WORK IN PROGRESS</strong></td>
+            <br /><strong>WITH CATHODE RESISTORS<br /></strong></td>
         <td> </td>
     </tr>
     <tr style="background-color:#ffffff;" height="5px"></tr>
@@ -261,7 +261,7 @@
         <td>
             <h3>NO.23B</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.jb-electronics.de/html/elektronik/nixies/n_b5971.htm?lang=en">B5971</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/NL5971/">NL5971</a>
-            <br /><strong>WITHOUT CATHODE RESISTORS<br /><a target="_blank" rel="noopener" href="https://igg.me/at/pro-nixietester"><font color="green">DEDICATED ONLY FOR PRO NIXIE TESTER</font></a></strong></td>
+            <br /><strong>WITHOUT CATHODE RESISTORS<br /><a target="_blank" rel="noopener" href="https://nixietester.com/project/pro-nixie-tester/"><font color="green">DEDICATED ONLY FOR PRO NIXIE TESTER</font></a></strong></td>
         <td> </td>
     </tr>
     <tr style="background-color:#ffffff;" height="5px"></tr>
@@ -271,7 +271,7 @@
         <td>
             <h3>NO.24A</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.jb-electronics.de/html/elektronik/nixies/n_b8971.htm?lang=en">B8971</a>, <a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/data/b-8971/b-8971.htm">NL8971</a>
-            <br /><strong>WITH CATHODE RESISTORS<br /><a target="_blank" rel="noopener" href="https://igg.me/at/nixie-lab">DEDICATED ONLY FOR NIXIE LAB</a><br />NOT AVAILABLE - WORK IN PROGRESS</strong></td>
+            <br /><strong>WITH CATHODE RESISTORS</strong></td>
         <td> </td>
     </tr>
     <tr style="background-color:#ffffff;" height="5px"></tr>
@@ -281,7 +281,7 @@
         <td>
             <h3>NO.24B</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.jb-electronics.de/html/elektronik/nixies/n_b8971.htm?lang=en">B8971</a>, <a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/data/b-8971/b-8971.htm">NL8971</a>
-            <br /><strong>WITHOUT CATHODE RESISTORS<br /><a target="_blank" rel="noopener" href="https://igg.me/at/pro-nixietester"><font color="green">DEDICATED ONLY FOR PRO NIXIE TESTER</font></a></strong></td>
+            <br /><strong>WITHOUT CATHODE RESISTORS<br /><a target="_blank" rel="noopener" href="https://nixietester.com/project/pro-nixie-tester/"><font color="green">DEDICATED ONLY FOR PRO NIXIE TESTER</font></a></strong></td>
         <td> </td>
     </tr>
     <tr style="background-color:#ffffff;" height="5px"></tr>
@@ -295,4 +295,24 @@
             <br /><a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/data/nl-803/nl-803.htm">NL943</a>,&nbsp;<a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/CK1907/">CK1907</a>,&nbsp;<a target="_blank" href="http://www.swissnixie.com/tubes/CK8754/">CK8754</a>,&nbsp;<a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/3400005/">340-0005</a></td>
         <td> </td>
     </tr>
+    <tr style="background-color:#ffffff;" height="5px"></tr>
+    <tr align="center" valign="middle" style="background-color:#d4effd;">
+        <td> </td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-26A.jpg" /></td>
+        <td>
+            <h3>NO.26A</h3></td>
+        <td><a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/dat_arch/ZM1350_02.pdf">ZM1350</a>
+            <br /><strong>WITHOUT CATHODE RESISTORS<br /><a target="_blank" rel="noopener" href="https://nixietester.com/project/pro-nixie-tester/"><font color="green">DEDICATED ONLY FOR PRO NIXIE TESTER</font></a></strong></td>
+        <td> </td>
+    </tr>
+    <tr style="background-color:#ffffff;" height="5px"></tr>
+    <tr align="center" valign="middle" style="background-color:#d4effd;">
+        <td> </td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-26B.jpg" /></td>
+        <td>
+            <h3>NO.26B</h3></td>
+        <td><a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/dat_arch/ZM1350_02.pdf">ZM1350</a>
+            <br /><strong>WITH CATHODE RESISTORS</strong></td>
+        <td> </td>
+    </tr>	
 </table>
