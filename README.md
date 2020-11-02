@@ -15,7 +15,7 @@
 * <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_04.pdf">Socket no.04</a>
 * <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_05.pdf">Socket no.05</a>
 * <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_06.pdf">Socket no.06</a>
-* Socket no.7 work in progress...
+* <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_07.pdf">Socket no.07</a>
 * <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_08.pdf">Socket no.08</a>
 * <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_09.pdf">Socket no.09</a>
 * <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_10.pdf">Socket no.10</a>
