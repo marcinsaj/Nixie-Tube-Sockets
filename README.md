@@ -40,11 +40,11 @@
 * <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_26A.pdf">Socket no.26A</a> 
 * <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_26B.pdf">Socket no.26B</a>
 
-## Libraries for use in your own projects
+# Libraries for use in your own projects
 * Eagle Library
 * EasyEDA Library
 
-**<a href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/library/Nixie_Tube_Socket_Library.zip" download="Library - Eagle & EasyEDA ">Download libraries</a>**
+**<a href="https://github.com/marcinsaj/Nixie-Tube-Sockets/raw/master/library/Nixie_Tube_Socket_Library.zip" download="Library - Eagle & EasyEDA ">Download libraries</a>**
 
 <p align="center"><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/library/nixie_tube_socket_library_description.jpg"></p>
 
