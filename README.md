@@ -9,8 +9,7 @@
 * <a target="_blank" href="https://nixietester.com/project/useless-nixie-device/">Useless Nixie Device</a>
 
 # Assembly instructions
-* <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/raw/master/datasheet/Nixie-Tube-Socket-Assembly-Instruction.pdf">Download datasheet</a>
-Detailed datasheet in progress...
+* <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/raw/master/datasheet/Nixie-Tube-Socket-Assembly-Instruction.pdf">Download datasheet</a> - work in progress...
 
 
 # Schematic
