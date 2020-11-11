@@ -8,6 +8,11 @@
 * <a target="_blank" href="https://nixietester.com/project/universal-nixie-tester/">Universal Nixie Tube Tester</a>
 * <a target="_blank" href="https://nixietester.com/project/useless-nixie-device/">Useless Nixie Device</a>
 
+# Assembly instructions
+* <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/raw/master/datasheet/Nixie-Tube-Socket-Assembly-Instruction.pdf">Download datasheet</a>
+Detailed datasheet in progress...
+
+
 # Schematic
 * <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_01.pdf">Socket no.01</a>
 * <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_02.pdf">Socket no.02</a>
