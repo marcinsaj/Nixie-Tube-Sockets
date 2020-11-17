@@ -346,7 +346,7 @@
         <td>
             <h3>NO.26A</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/dat_arch/ZM1350_02.pdf">ZM1350</a>
-            <br /><strong>WITHOUT CATHODE RESISTORS<br /><a target="_blank" rel="noopener" href="https://nixietester.com/project/pro-nixie-tester/"><font color="green">DEDICATED ONLY FOR PRO NIXIE TESTER</font></a></strong></td>
+            <br /><strong>WITH CATHODE RESISTORS</strong></td>
         <td> </td>
     </tr>
     <tr style="background-color:#ffffff;" height="5px"></tr>
@@ -356,7 +356,7 @@
         <td>
             <h3>NO.26B</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/dat_arch/ZM1350_02.pdf">ZM1350</a>
-            <br /><strong>WITH CATHODE RESISTORS</strong></td>
+            <br /><strong>WITHOUT CATHODE RESISTORS<br /><a target="_blank" rel="noopener" href="https://nixietester.com/project/pro-nixie-tester/"><font color="green">DEDICATED ONLY FOR PRO NIXIE TESTER</font></a></strong></td>
         <td> </td>
     </tr>	
 </table>
