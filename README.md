@@ -13,12 +13,12 @@
 
 
 # Schematic
-* <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_01.pdf">Socket no.01</a>
-* <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_02.pdf">Socket no.02</a>
-* <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_03.pdf">Socket no.03</a>
-* <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_04.pdf">Socket no.04</a>
-* <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_05.pdf">Socket no.05</a>
-* <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_06.pdf">Socket no.06</a>
+| <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_01.pdf">Socket no.01</a>
+| <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_02.pdf">Socket no.02</a>
+| <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_03.pdf">Socket no.03</a>
+| <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_04.pdf">Socket no.04</a>
+| <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_05.pdf">Socket no.05</a>
+| <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_06.pdf">Socket no.06</a>
 * <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_07.pdf">Socket no.07</a>
 * <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_08.pdf">Socket no.08</a>
 * <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_09.pdf">Socket no.09</a>
