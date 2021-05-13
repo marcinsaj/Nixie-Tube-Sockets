@@ -27,7 +27,7 @@
     </tr>
     <tr>
       <td><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_03.pdf">Socket no.03</a></td>
-      <td>Socket no.17</td>
+      <td><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_17.pdf">Socket no.17</a></td>
       <td><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_27.pdf">Socket no.27</a></td>
     </tr>
     <tr>
