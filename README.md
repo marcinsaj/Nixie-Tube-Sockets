@@ -231,7 +231,7 @@
         <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-15.jpg" /></td>
         <td>
             <h3>NO.15</h3></td>
-        <td><a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/IN7/">IN7</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/IN7A/">IN7A</a></td>
+        <td><a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/IN7/">IN7</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/IN7A/">IN7A</a>, <a target="_blank" rel="noopener" href="https://nixie.cactusgroup.space/in-7b/">IN7B</a></td>
         <td> </td>
     </tr>
     <tr style="background-color:#ffffff;" height="5px"></tr>
