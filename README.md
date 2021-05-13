@@ -43,7 +43,7 @@
 * <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_25.pdf">Socket no.25</a>
 * <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_26A.pdf">Socket no.26A</a> 
 * <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_26B.pdf">Socket no.26B</a>
-* * <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_27.pdf">Socket no.27</a>
+* <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_27.pdf">Socket no.27</a>
 
 # Libraries for use in your own projects
 * Eagle Library
@@ -99,7 +99,7 @@
         <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-04.jpg" /></td>
         <td>
             <h3>NO.4</h3></td>
-        <td><a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/IN18/">IN18</a></td>
+        <td><a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/IN18/">IN18</a>, <a target="_blank" rel="noopener" href="https://millclock.com/catalog/49-76-zin-18-nixie-tube#/32-base-silver_base">ZIN18 – Millclock (IN18 pinout)</a></td>
         <td> </td>
     </tr>
     <tr style="background-color:#ffffff;" height="5px"></tr>
@@ -108,7 +108,7 @@
         <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-05.jpg" /></td>
         <td>
             <h3>NO.5</h3></td>
-        <td><a target="_blank" rel="noopener" href="https://www.daliborfarny.com/product/rz568m-nixie-tube/">RZ568M - Dalibor Farny</a>,
+        <td><a target="_blank" rel="noopener" href="https://www.daliborfarny.com/product/rz568m-nixie-tube/">RZ568M - Dalibor Farny</a>, <a target="_blank" rel="noopener" href="https://millclock.com/catalog/84-118-zin-70-nixie-tube-with-silver-aluminum-base#/47-pinout_type-z568m_or_z5680m_pinout">ZIN70 – Millclock (Z568 pinout)</a>
             <br /><a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/Z568M/">Z568M</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/Z568M/">Z5680M</a>, <a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/data/b7037/b7037.htm">B7037</a>,&nbsp;<a target="_blank" rel="noopener" href="http://www.jb-electronics.de/html/elektronik/nixies/n_nl7037.htm?lang=de">NL7037</a>, <a target="_blank" rel="noopener" href="http://www.jb-electronics.de/html/elektronik/nixies/n_nl934.htm?lang=de">NL934</a>
             <br /><a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/B8033/">B8033</a>, <a target="_blank" rel="noopener" href="http://www.jb-electronics.de/html/elektronik/nixies/n_nl8091.htm?lang=de">NL8091</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/B8091/">B8091</a>, <a target="_blank" rel="noopener" href="http://www.jb-electronics.de/html/elektronik/nixies/n_nl1212.htm?lang=de">NL1212</a></td>
         <td> </td>
@@ -213,7 +213,8 @@
         <td>
             <h3>NO.16</h3></td>
         <td><strong>NIXIE TUBE DRIVER SOCKET<br />
-        DEDICATED ONLY FOR NIXIE TUBE TESTER</strong><strong><br />IN12 - TUBE INDICATOR.
+        DEDICATED  FOR NIXIE TUBE TESTER</strong><strong><br />
+        IN12 - TUBE INDICATOR.
       TUBE DRIVERS:</strong> <a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/74141-NDT/74141-NDT.htm">74141, DM74141, DM74141N,&nbsp;NTE74141, SN74141, SN74141J, SN74141N, TL74141N, 155ID1, K155ID1, KM155ID1, 7441, 7441A, DM7441A, DM5441A, DM54141, DM8640N, FJL101, FLL101</a></td>
         <td> </td>
     </tr>
@@ -266,7 +267,7 @@
         <td>
             <h3>NO.20B</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/B7971BURROUGHS/">B7971, NL7971, 283CQAD7971</a>
-            <br /><strong>WITHOUT CATHODE RESISTORS<br /><a target="_blank" rel="noopener" href="https://nixietester.com/project/pro-nixie-tester/"><font color="green">DEDICATED ONLY FOR PRO NIXIE TESTER</font></a></strong></td>
+            <br /><strong>WITHOUT CATHODE RESISTORS<br /><a target="_blank" rel="noopener" href="https://nixietester.com/project/pro-nixie-tester/"><font color="green">DEDICATED FOR PRO NIXIE TESTER</font></a></strong></td>
         <td> </td>
     </tr>
     <tr style="background-color:#ffffff;" height="5px"></tr>
@@ -275,7 +276,7 @@
         <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-21.jpg" /></td>
         <td>
             <h3>NO.21</h3></td>
-        <td><a target="_blank" rel="noopener" href="https://millclock.com/catalog/49-76-zin-18-nixie-tube#/32-base-silver_base">ZIN18 - Millclock</a>&nbsp;</td>
+        <td><a target="_blank" rel="noopener" href="https://millclock.com/catalog/49-76-zin-18-nixie-tube#/32-base-silver_base">ZIN18 - Millclock pinout</a>&nbsp;</td>
         <td> </td>
     </tr>
     <tr style="background-color:#ffffff;" height="5px"></tr>
@@ -306,7 +307,7 @@
         <td>
             <h3>NO.23B</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.jb-electronics.de/html/elektronik/nixies/n_b5971.htm?lang=en">B5971</a>, <a target="_blank" rel="noopener" href="http://www.swissnixie.com/tubes/NL5971/">NL5971</a>
-            <br /><strong>WITHOUT CATHODE RESISTORS<br /><a target="_blank" rel="noopener" href="https://nixietester.com/project/pro-nixie-tester/"><font color="green">DEDICATED ONLY FOR PRO NIXIE TESTER</font></a></strong></td>
+            <br /><strong>WITHOUT CATHODE RESISTORS<br /><a target="_blank" rel="noopener" href="https://nixietester.com/project/pro-nixie-tester/"><font color="green">DEDICATED FOR PRO NIXIE TESTER</font></a></strong></td>
         <td> </td>
     </tr>
     <tr style="background-color:#ffffff;" height="5px"></tr>
@@ -326,7 +327,7 @@
         <td>
             <h3>NO.24B</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.jb-electronics.de/html/elektronik/nixies/n_b8971.htm?lang=en">B8971</a>, <a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/data/b-8971/b-8971.htm">NL8971</a>
-            <br /><strong>WITHOUT CATHODE RESISTORS<br /><a target="_blank" rel="noopener" href="https://nixietester.com/project/pro-nixie-tester/"><font color="green">DEDICATED ONLY FOR PRO NIXIE TESTER</font></a></strong></td>
+            <br /><strong>WITHOUT CATHODE RESISTORS<br /><a target="_blank" rel="noopener" href="https://nixietester.com/project/pro-nixie-tester/"><font color="green">DEDICATED FOR PRO NIXIE TESTER</font></a></strong></td>
         <td> </td>
     </tr>
     <tr style="background-color:#ffffff;" height="5px"></tr>
@@ -357,7 +358,7 @@
         <td>
             <h3>NO.26B</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/dat_arch/ZM1350_02.pdf">ZM1350</a>
-            <br /><strong>WITHOUT CATHODE RESISTORS<br /><a target="_blank" rel="noopener" href="https://nixietester.com/project/pro-nixie-tester/"><font color="green">DEDICATED ONLY FOR PRO NIXIE TESTER</font></a></strong></td>
+            <br /><strong>WITHOUT CATHODE RESISTORS<br /><a target="_blank" rel="noopener" href="https://nixietester.com/project/pro-nixie-tester/"><font color="green">DEDICATED FOR PRO NIXIE TESTER</font></a></strong></td>
         <td> </td>
     </tr>	
     <tr style="background-color:#ffffff;" height="5px"></tr>
@@ -375,9 +376,8 @@
         <td> </td>
         <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-26B.jpg" /></td>
         <td>
-            <h3>NO.26B</h3></td>
-        <td><a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/dat_arch/ZM1350_02.pdf">ZM1350</a>
-            <br /><strong>WITHOUT CATHODE RESISTORS<br /><a target="_blank" rel="noopener" href="https://nixietester.com/project/pro-nixie-tester/"><font color="green">DEDICATED ONLY FOR PRO NIXIE TESTER</font></a></strong></td>
+            <h3>NO.27</h3></td>
+        <td><a target="_blank" rel="noopener" href="https://millclock.com/catalog/84-117-zin-70-nixie-tube-with-silver-aluminum-base#/46-pinout_type-standart_pinout_by_millclock">ZIN70 – Millclock pinout</a></td>
         <td> </td>
     </tr>	    
 </table>
