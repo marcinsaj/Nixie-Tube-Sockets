@@ -42,12 +42,12 @@
     </tr>
     <tr>
       <td><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_06.pdf">Socket no.06</a></td>
-      <td>Socket no.20A</td>
+      <td><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_20A.pdf">Socket no.20A</a></td>
       <td>&nbsp;</td>
     </tr>
     <tr>
       <td><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_07.pdf">Socket no.07</a></td>
-      <td>Socket no.20B</td>
+      <td><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_20B.pdf">Socket no.20B</a></td>
       <td>&nbsp;</td>
     </tr>
     <tr>
