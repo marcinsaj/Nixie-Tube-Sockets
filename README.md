@@ -43,6 +43,7 @@
 * <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_25.pdf">Socket no.25</a>
 * <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_26A.pdf">Socket no.26A</a> 
 * <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_26B.pdf">Socket no.26B</a>
+* * <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_27.pdf">Socket no.27</a>
 
 # Libraries for use in your own projects
 * Eagle Library
@@ -359,4 +360,24 @@
             <br /><strong>WITHOUT CATHODE RESISTORS<br /><a target="_blank" rel="noopener" href="https://nixietester.com/project/pro-nixie-tester/"><font color="green">DEDICATED ONLY FOR PRO NIXIE TESTER</font></a></strong></td>
         <td> </td>
     </tr>	
+    <tr style="background-color:#ffffff;" height="5px"></tr>
+    <tr align="center" valign="middle" style="background-color:#d4effd;">
+        <td> </td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-26A.jpg" /></td>
+        <td>
+            <h3>NO.26A</h3></td>
+        <td><a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/dat_arch/ZM1350_02.pdf">ZM1350</a>
+            <br /><strong>WITH CATHODE RESISTORS</strong></td>
+        <td> </td>
+    </tr>
+    <tr style="background-color:#ffffff;" height="5px"></tr>
+    <tr align="center" valign="middle" style="background-color:#d4effd;">
+        <td> </td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-26B.jpg" /></td>
+        <td>
+            <h3>NO.26B</h3></td>
+        <td><a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/dat_arch/ZM1350_02.pdf">ZM1350</a>
+            <br /><strong>WITHOUT CATHODE RESISTORS<br /><a target="_blank" rel="noopener" href="https://nixietester.com/project/pro-nixie-tester/"><font color="green">DEDICATED ONLY FOR PRO NIXIE TESTER</font></a></strong></td>
+        <td> </td>
+    </tr>	    
 </table>
