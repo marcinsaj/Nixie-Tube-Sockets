@@ -364,7 +364,7 @@
     <tr style="background-color:#ffffff;" height="5px"></tr>
     <tr align="center" valign="middle" style="background-color:#d4effd;">
         <td> </td>
-        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-26B.jpg" /></td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-27.jpg" /></td>
         <td>
             <h3>NO.27</h3></td>
         <td><a target="_blank" rel="noopener" href="https://millclock.com/catalog/84-117-zin-70-nixie-tube-with-silver-aluminum-base#/46-pinout_type-standart_pinout_by_millclock">ZIN70 – Millclock pinout</a></td>
