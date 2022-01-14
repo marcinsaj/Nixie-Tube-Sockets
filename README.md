@@ -1,12 +1,12 @@
-# One Nixie Lab Environment
-* ONE Nixie Clock - work in progress...
-* <a target="_blank" href="https://nixietester.com/project/nixie-lab-ultimate-nixie-project/">Nixie Lab</a>
-* <a target="_blank" href="https://nixietester.com/project/nixie-sockets/">27 Nixie Tube Sockets </a>
+# One Nixie Lab Environment 
+* <a target="_blank" href="https://nixietester.com/project/iot-one-nixie-clock/">ONE Nixie Clock</a>
+* <a target="_blank" href="https://nixietester.com/project/nixie-sockets/">28 Nixie Tube Sockets </a>
 * <a target="_blank" href="https://nixietester.com/project/pro-nixie-tester/">Universal PRO Nixie Tube Tester and Healer</a>
 * <a target="_blank" href="https://nixietester.com/project/nixie-shield-for-arduino/">Nixie Shield for Arduino</a>
 * <a target="_blank" href="https://nixietester.com/project/nixie-hat-for-raspberry-pi/">Nixie Hat for Raspberry Pi</a>
 * <a target="_blank" href="https://nixietester.com/project/universal-nixie-tester/">Universal Nixie Tube Tester</a>
 * <a target="_blank" href="https://nixietester.com/project/useless-nixie-device/">Useless Nixie Device</a>
+* * <a target="_blank" href="https://nixietester.com/project/nixie-lab-ultimate-nixie-project/">Nixie Lab</a>
 
 # Assembly instructions
 * Nixie Tube Socket - <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/datasheet/Nixie-Tube-Socket-Assembly-Instruction.pdf">Assembly Instruction</a>
@@ -401,7 +401,7 @@
     <tr style="background-color:#ffffff;" height="5px"></tr>
     <tr align="center" valign="middle" style="background-color:#d4effd;">
         <td> </td>
-        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-27.jpg" /></td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-28.jpg" /></td>
         <td>
             <h3>NO.28</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/data/z590m.htm">Z590M, Z5900M</a></td>
