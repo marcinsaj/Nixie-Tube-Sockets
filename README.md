@@ -6,7 +6,7 @@
 * <a target="_blank" href="https://nixietester.com/project/nixie-hat-for-raspberry-pi/">Nixie Hat for Raspberry Pi</a>
 * <a target="_blank" href="https://nixietester.com/project/universal-nixie-tester/">Universal Nixie Tube Tester</a>
 * <a target="_blank" href="https://nixietester.com/project/useless-nixie-device/">Useless Nixie Device</a>
-* * <a target="_blank" href="https://nixietester.com/project/nixie-lab-ultimate-nixie-project/">Nixie Lab</a>
+* <a target="_blank" href="https://nixietester.com/project/nixie-lab-ultimate-nixie-project/">Nixie Lab</a>
 
 # Assembly instructions
 * Nixie Tube Socket - <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/datasheet/Nixie-Tube-Socket-Assembly-Instruction.pdf">Assembly Instruction</a>
