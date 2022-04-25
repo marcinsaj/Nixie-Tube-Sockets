@@ -417,8 +417,8 @@
         <td> </td>
         <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-28.jpg" /></td>
         <td>
-            <h3>NO.28</h3></td>
-        <td><a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/data/z590m.htm">Z590M, Z5900M</a></td>
+            <h3>NO.29A</h3></td>
+        <td><a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/data/mg-17g/mg-17g.htm">MG-17G</a></td>
         <td> </td>
     </tr>	 
       <tr style="background-color:#ffffff;" height="5px"></tr>
@@ -426,8 +426,9 @@
         <td> </td>
         <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-28.jpg" /></td>
         <td>
-            <h3>NO.28</h3></td>
-        <td><a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/data/z590m.htm">Z590M, Z5900M</a></td>
+            <h3>NO.29B</h3></td>
+        <td><a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/data/mg-17g/mg-17g.htm">MG-17G</a>
+            <br /><strong>WITHOUT CATHODE RESISTORS<br /><a target="_blank" rel="noopener" href="https://nixietester.com/project/pro-nixie-tester/"><font color="green">DEDICATED FOR PRO NIXIE TESTER</font></a></strong></td>
         <td> </td>
     </tr>	 
 </table>
