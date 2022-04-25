@@ -415,7 +415,7 @@
       <tr style="background-color:#ffffff;" height="5px"></tr>
     <tr align="center" valign="middle" style="background-color:#d4effd;">
         <td> </td>
-        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-28.jpg" /></td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-29A.jpg" /></td>
         <td>
             <h3>NO.29A</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/data/mg-17g/mg-17g.htm">MG-17G</a></td>
@@ -424,7 +424,7 @@
       <tr style="background-color:#ffffff;" height="5px"></tr>
     <tr align="center" valign="middle" style="background-color:#d4effd;">
         <td> </td>
-        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-28.jpg" /></td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-29B.jpg" /></td>
         <td>
             <h3>NO.29B</h3></td>
         <td><a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/data/mg-17g/mg-17g.htm">MG-17G</a>
