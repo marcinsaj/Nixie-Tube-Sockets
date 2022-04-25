@@ -17,59 +17,64 @@
   <tbody>
     <tr bgcolor="#f7f7f7">
       <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_01.pdf">Socket no.01</a></td>
-      <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_12.pdf">Socket no.12</a></td>
-      <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_22.pdf">Socket no.22</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_02.pdf">Socket no.02</a></td>
       <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_13.pdf">Socket no.13</a></td>
       <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_23A.pdf">Socket no.23A</a></td>
     </tr>
+    <tr>
+      <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_02.pdf">Socket no.02</a></td>
+      <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_14.pdf">Socket no.14</a></td>
+      <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_23B.pdf">Socket no.23B</a></td>
+    </tr>
     <tr bgcolor="#f7f7f7">
       <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_03.pdf">Socket no.03</a></td>
-      <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_14.pdf">Socket no.14</a></td>
+      <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_15.pdf">Socket no.15</a></td>
       <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_23B.pdf">Socket no.23B</a></td>
     </tr>
     <tr>
       <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_04.pdf">Socket no.04</a></td>
-      <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_15.pdf">Socket no.15</a></td>
+      <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_16.pdf">Socket no.16</a></td>
       <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_24A.pdf">Socket no.24A</a></td>
     </tr>
     <tr bgcolor="#f7f7f7">
       <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_05.pdf">Socket no.05</a></td>
-      <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_16.pdf">Socket no.16</a></td>
+      <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_17.pdf">Socket no.17</a></td>
       <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_24B.pdf">Socket no.24B</a></td>
     </tr>
     <tr>
       <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_06.pdf">Socket no.06</a></td>
-      <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_17.pdf">Socket no.17</a></td>
+      <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_18.pdf">Socket no.18</a></td>
       <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_25.pdf">Socket no.25</a></td>
     </tr>
     <tr bgcolor="#f7f7f7">
       <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_07.pdf">Socket no.07</a></td>
-      <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_18.pdf">Socket no.18</a></td>
+      <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_19.pdf">Socket no.19</a></td>
       <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_26A.pdf">Socket no.26A</a></td>
     </tr>
     <tr>
       <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_08.pdf">Socket no.08</a></td>
-      <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_19.pdf">Socket no.19</a></td>
+      <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_20A.pdf">Socket no.20A</a></td>
       <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_26B.pdf">Socket no.26B</a></td>
     </tr>
     <tr bgcolor="#f7f7f7">
       <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_09.pdf">Socket no.09</a></td>
-      <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_20A.pdf">Socket no.20A</a></td>
+      <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_20B.pdf">Socket no.20B</a></td>
       <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_27.pdf">Socket no.27</a></td>
     </tr>
     <tr>
       <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_10.pdf">Socket no.10</a></td>
-      <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_20B.pdf">Socket no.20B</a></td>
+      <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_21.pdf">Socket no.21</a></td>
       <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_28.pdf">Socket no.28</a></td>
     </tr>
     <tr bgcolor="#f7f7f7">
       <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_11.pdf">Socket no.11</a></td>
-      <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_21.pdf">Socket no.21</a></td>
+      <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_22.pdf">Socket no.22</a></td>
       <td style="text-align: center"></td>
-    </tr>  
+    </tr> 
+    <tr bgcolor="#f7f7f7">
+      <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_12.pdf">Socket no.12</a></td>
+      <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_20B.pdf">Socket no.23A</a></td>
+      <td style="text-align: center"></td>
+    </tr>       
   </tbody>
 </table>
 
