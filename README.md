@@ -70,7 +70,7 @@
       <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_22.pdf">Socket no.22</a></td>
       <td style="text-align: center"></td>
     </tr> 
-    <tr bgcolor="#f7f7f7">
+    <tr>
       <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_12.pdf">Socket no.12</a></td>
       <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/schematic/Schematic_Nixie_Tube_Socket_no_23A.pdf">Socket no.23A</a></td>
       <td style="text-align: center"></td>
