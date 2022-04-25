@@ -1,6 +1,6 @@
 # One Nixie Lab Environment 
 * <a target="_blank" href="https://nixietester.com/project/iot-one-nixie-clock/">ONE Nixie Clock</a>
-* <a target="_blank" href="https://nixietester.com/project/nixie-sockets/">28 Nixie Tube Sockets </a>
+* <a target="_blank" href="https://nixietester.com/project/nixie-sockets/">29 Nixie Tube Sockets </a>
 * <a target="_blank" href="https://nixietester.com/project/pro-nixie-tester/">Universal PRO Nixie Tube Tester and Healer</a>
 * <a target="_blank" href="https://nixietester.com/project/nixie-shield-for-arduino/">Nixie Shield for Arduino</a>
 * <a target="_blank" href="https://nixietester.com/project/nixie-hat-for-raspberry-pi/">Nixie Hat for Raspberry Pi</a>
