@@ -412,4 +412,22 @@
         <td><a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/data/z590m.htm">Z590M, Z5900M</a></td>
         <td> </td>
     </tr>	 
+      <tr style="background-color:#ffffff;" height="5px"></tr>
+    <tr align="center" valign="middle" style="background-color:#d4effd;">
+        <td> </td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-28.jpg" /></td>
+        <td>
+            <h3>NO.28</h3></td>
+        <td><a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/data/z590m.htm">Z590M, Z5900M</a></td>
+        <td> </td>
+    </tr>	 
+      <tr style="background-color:#ffffff;" height="5px"></tr>
+    <tr align="center" valign="middle" style="background-color:#d4effd;">
+        <td> </td>
+        <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-28.jpg" /></td>
+        <td>
+            <h3>NO.28</h3></td>
+        <td><a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/data/z590m.htm">Z590M, Z5900M</a></td>
+        <td> </td>
+    </tr>	 
 </table>
