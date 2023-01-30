@@ -1,4 +1,5 @@
-<a href="https://www.buymeacoffee.com/marcinsaj"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=marcinsaj&button_colour=75b8fa&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<a href="https://www.buymeacoffee.com/marcinsaj"><img src="https://github.com/marcinsaj/marcinsaj/blob/main/Buy-me-a-coffee.png" /></a> 
+</br>
 
 # One Nixie Lab Environment 
 * <a target="_blank" href="https://nixietester.com/project/iot-one-nixie-clock/">ONE Nixie Clock</a>
