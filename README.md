@@ -12,7 +12,7 @@
 * <a target="_blank" href="https://nixietester.com/project/nixie-lab-ultimate-nixie-project/">Nixie Lab</a> - retired
 
 # Assembly instructions
-* Nixie Tube Socket - <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/datasheet/Nixie-Tube-Socket-Assembly-Instruction.pdf">Assembly Instruction</a>
+* Nixie Tube Socket - <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/raw/master/datasheet/Nixie-Tube-Socket-Assembly-Instruction.pdf">Assembly Instruction</a>
 
 
 # Schematic
