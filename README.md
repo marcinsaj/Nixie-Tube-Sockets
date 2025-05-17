@@ -441,7 +441,7 @@
         <td><img src="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/images/SOCKET-30.jpg" /></td>
         <td>
             <h3>NO.30</h3></td>
-        <td><a target="_blank" rel="noopener" href="http://www.tube-tester.com/sites/nixie/data/mg-17g/mg-17g.htm">MG-17G</a></td>
+        <td><a target="_blank" rel="noopener" href="https://inixielab.com/products/inixie-dgm-tubes">DGM01</a></td>
         <td> </td>
     </tr>	
 </table>
