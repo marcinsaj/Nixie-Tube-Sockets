@@ -1,15 +1,15 @@
 <a href="https://www.buymeacoffee.com/marcinsaj"><img src="https://github.com/marcinsaj/marcinsaj/blob/main/Buy-me-a-coffee.png" /></a> 
 </br>
 
-# One Nixie Lab Environment 
-* <a target="_blank" href="https://nixietester.com/project/iot-one-nixie-clock/">ONE Nixie Clock</a>
-* <a target="_blank" href="https://nixietester.com/project/nixie-sockets/">29 Nixie Tube Sockets </a>
+# One Nixie Lab Environment
 * <a target="_blank" href="https://nixietester.com/project/pro-nixie-tester/">Universal PRO Nixie Tube Tester and Healer</a>
-* <a target="_blank" href="https://nixietester.com/project/nixie-shield-for-arduino/">Nixie Shield for Arduino</a>
+* <a target="_blank" href="https://nixietester.com/project/nixie-sockets/">30 Nixie Tube Sockets </a>
+* <a target="_blank" href="https://nixietester.com/project/iot-one-nixie-clock/">ONE Nixie Clock</a> - retired
+* <a target="_blank" href="https://nixietester.com/project/nixie-shield-for-arduino/">Nixie Shield for Arduino</a> - retired
 * <a target="_blank" href="https://nixietester.com/project/nixie-hat-for-raspberry-pi/">Nixie Hat for Raspberry Pi</a>
-* <a target="_blank" href="https://nixietester.com/project/universal-nixie-tester/">Universal Nixie Tube Tester</a>
-* <a target="_blank" href="https://nixietester.com/project/useless-nixie-device/">Useless Nixie Device</a>
-* <a target="_blank" href="https://nixietester.com/project/nixie-lab-ultimate-nixie-project/">Nixie Lab</a>
+* <a target="_blank" href="https://nixietester.com/project/universal-nixie-tester/">Universal Nixie Tube Tester</a> - retired
+* <a target="_blank" href="https://nixietester.com/project/useless-nixie-device/">Useless Nixie Device</a> - retired
+* <a target="_blank" href="https://nixietester.com/project/nixie-lab-ultimate-nixie-project/">Nixie Lab</a> - retired
 
 # Assembly instructions
 * Nixie Tube Socket - <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/blob/master/datasheet/Nixie-Tube-Socket-Assembly-Instruction.pdf">Assembly Instruction</a>
