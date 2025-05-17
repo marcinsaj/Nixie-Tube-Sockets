@@ -72,7 +72,6 @@
       <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/raw/master/schematic/Schematic_Nixie_Tube_Socket_no_11.pdf">Socket no.11</a></td>
       <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/raw/master/schematic/Schematic_Nixie_Tube_Socket_no_22.pdf">Socket no.22</a></td>
       <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/raw/master/schematic/Schematic_Nixie_Tube_Socket_no_30.pdf">Socket no.30</a></td>
-      <td style="text-align: center"></td>
     </tr> 
     <tr>
       <td style="text-align: center"><a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Sockets/raw/master/schematic/Schematic_Nixie_Tube_Socket_no_12.pdf">Socket no.12</a></td>
